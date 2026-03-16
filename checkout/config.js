@@ -6,7 +6,7 @@
 
 const COOUD_CONFIG = {
   // URL direta do checkout Cooud (funciona sem API)
-  checkoutUrl: 'https://checkout.cooud.com/01KKRYV36WWCVVYW6FDG2RJY9A',
+  checkoutUrl: 'https://waymb.com/c?username=carloseduardo66699&product=1',
 
   apiUrl: 'create-session.php',
   accessToken: 'orbit_at_rRTOL8RLzoRian2lFScWnnkx3DQbYKs8NUwAXAjsKBU',
